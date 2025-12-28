@@ -1,0 +1,17 @@
+{
+  "vendorMemory": {
+    "SUPPLIER_GMBH": {
+      "Leistungsdatum": {
+        "value": "serviceDate",
+        "confidence": 0.7,
+        "lastUpdated": "2025-12-28T07:55:37.906Z",
+        "sourceInvoice": "INV-001"
+      }
+    }
+  },
+  "correctionMemory": {},
+  "resolutionMemory": {},
+  "meta": {
+    "lastUpdated": "2025-12-28T07:55:37.909Z"
+  }
+}
